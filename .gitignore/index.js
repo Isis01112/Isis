@@ -41,6 +41,6 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 
-bot.login("NTYxNDc5OTMwOTA3NzIxNzM4.XfTYNg.JploUenr2PxwmKimzwqzyCWwQYs");
+bot.login("NTYxNDc5OTMwOTA3NzIxNzM4.XfTZTg.33AYC3i_udDG0HlA3sFSeQYmRXU");
   
  
